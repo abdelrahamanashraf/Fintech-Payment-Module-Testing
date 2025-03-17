@@ -1,0 +1,6 @@
+{
+  "amount": 1000.00,
+  "currency": "BHD",
+  "recipient": "RestAPI@example.com",
+  "description": "Test payment"
+}
