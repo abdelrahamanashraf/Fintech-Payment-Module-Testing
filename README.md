@@ -7,7 +7,8 @@ This project contains automated tests using Selenium (Java 16) , RestAssured , A
 * `src/main/java/org.example.tanami.payment`: Contains Selenium-based automation scripts.
 * `test/java/RestAssured`: Contains RestAssured-based API testing scripts.
 * `Test Plan.md`: Contains the test plan and detailed test cases 
-* `Test Cases.md` :  Contains the detailed test cases 
+* `Test Cases.md` :  Contains the detailed test cases
+* `APITesting.md` :  Contains the API test cases
 
 
 
